@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Fiore Rey",
+        "desc": "Soñadora, amable y amorosa",
+        "img":"assets/img_02.png"
+    },
+    {
+        "id": 2,
+        "name": "Mel",
+        "desc": "Loca, soñadora y fiestera",
+        "img":"assets/img_06.png"
+    },
+    {
+        "id": 3,
+        "name": "Alu",
+        "desc": "Inteligente, con carcater fuerte, y loca",
+        "img": "assets/img_03.png"
+    },
+    {
+        "id": 4,
+        "name": "Santi",
+        "desc": "Inteligente, compañero y gracioso",
+        "img": "assets/img_04.png"
+    },
+    {
+        "id": 5,
+        "name": "Juli",
+        "desc": "Amante del gym, Inteligente y tierno",
+        "img": "assets/img_01.png"
+    }
+]
